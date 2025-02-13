@@ -1,0 +1,14 @@
+@import "../../assets/styles/variable.module";
+@import "../../assets/styles/mixin.module";
+
+.box {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 150px;
+}
+
+.title {
+  font-size: 18px;
+  color: $secondary_color;
+}
